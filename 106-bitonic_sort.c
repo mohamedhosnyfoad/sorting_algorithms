@@ -87,4 +87,3 @@ void bitonic_sort(int *array, size_t size)
 
 	bitonic_sort_r(true, array, size, size);
 }
-
